@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning large-scale data reduction techniques using various telescopes as part of an archival spectroscopic survey.
 - 💞️ I’m looking to collaborate on anything related to understanding star formation activity on an extragalactic scale from the low-z to high-z Universe. Check out my NASA ADS for some background of what I work on.
 - 📫 How to reach me: akhostov@gmail.com (best place to reach me)
-- 🖥️ Come and check out my website at akhostov.github.io for more information
+- 🖥️ Come and check out my website at https://akhostov.github.io for more information
 
 <!---
 akhostov/akhostov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
